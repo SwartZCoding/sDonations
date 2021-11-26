@@ -1,0 +1,24 @@
+# Permission à mettre aux partenaires : dons.open
+# Si vous obtenez une erreur au démarrage du plugin, créer dans le dossier gifts dans le dossier sDonations.
+
+MESSAGES:
+  PLAYER_CANT_RECIVE_DONATIONS: "§cCe joueur ne peut pas recevoir de don."
+  PLAYER_DISCONNECTED: "§eLe joueur n'est pas connecté !"
+  INFORMATIONS_ABOUT_DONATIONS: "§e§eVous avez §d <size> §6Dons ! §eUtilisez la commande §6/dons §f§epour les récupérer !"
+  EMPTY_DONATIONS_BOX: "§eDésolé, vous n'avez aucun §6dons §f§eà récupérer!"
+  NULL_USER: "§cUne erreur est survenue !"
+  DONATION_SEND_SUCCESSFULY: "§aFélicitations ! §eVous venez d'envoyer un don à §c<player> §e!"
+  EMPTY_DONATION: "§cErreur ! Vous ne pouvez pas envoyer de don vide !"
+  DONATION_COLLECT_SUCCESSFULY: "§eFélicitations! Vous venez de §arécupérer §ece Don§f§e!"
+
+GUI_OPTIONS_OPEN:
+  NAME: "§eVos dons"
+
+GUI_OPTIONS_CONFIRM:
+  NAME: "§eQue faire?"
+  COLLECT: "§a§lRécupérer"
+  INFOS: "§e§lQue voulez-vous §c§lFaire§f§e?"
+  CANCEL: "§c§lRetour"
+
+GUI_OPTIONS_SEND:
+  NAME: "§eDéposer vos Objets"
