@@ -53,7 +53,7 @@ public class SDonations extends JavaPlugin {
     @Override
     public void onDisable() {
         Bukkit.getConsoleSender().sendMessage("");
-        Bukkit.getConsoleSender().sendMessage("§bNomeliaCore §7- [§cOFF§7]");
+        Bukkit.getConsoleSender().sendMessage("§csDonations §7- [§cOFF§7]");
         Bukkit.getConsoleSender().sendMessage("");
 
         this.persists.forEach(p -> {
